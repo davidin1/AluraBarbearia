@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.titulo__cabeçalho {
+    padding: .5em;
+}
+
+.principal {
+    background: #cccccc;
+    padding: 1.5em;
+}
+
+.titulo {
+    
+    text-align: center;
+}
+
+.paragrafo {
+    font-size: 14px;
+    text-align: center;
+    padding-bottom: 3em;
+}
+
+.imagem__banner {
+    width: 100%;
+}
+
+.beneficios {
+    background: #ffffff;
+    padding: 20px;
+}
+
+.titulo__beneficios {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.imagem__beneficios {
+    width: 50%;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
